@@ -1,4 +1,5 @@
-Shanbay addon for firefox
+Shanbay add-on for firefox
 ==========
 
-# cfx run
+cfx run
+
